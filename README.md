@@ -1,2 +1,2 @@
-# private
+# public
 ## Have you been...?
