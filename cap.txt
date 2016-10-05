@@ -1,2 +1,6 @@
 jphong capstone design
-team6 intermind
+<<<<<<< HEAD
+#team6 intermind
+
+it's too difficult
+>>>>>>> refs/remotes/origin/ex1
